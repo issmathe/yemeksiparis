@@ -1,5 +1,4 @@
 import Image from "next/image";
-import React from "react";
 import Title from "./ui/Title";
 import Slider from "react-slick";
 
@@ -32,6 +31,7 @@ const Carousel = () => {
             alt=""
             layout="fill"
             objectFit="cover"
+            priority
           />
         </div>
       </div>
