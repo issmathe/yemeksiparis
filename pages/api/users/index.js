@@ -1,6 +1,5 @@
 import User from "../../../models/User";
-import dbConnect from "@/util/dbConnect";
-
+import dbConnect from "../../../util/dbConnect";
 
 const handler = async (req, res) => {
   await dbConnect();

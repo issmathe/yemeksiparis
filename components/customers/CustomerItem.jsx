@@ -5,7 +5,7 @@ const CustomerItem = ({ imgSrc }) => {
     <div className="mt-5 mx-4">
       <div className="p-6 bg-secondary text-white rounded-[5px]">
         <p>
-          sanane ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
           minim veniam
         </p>
