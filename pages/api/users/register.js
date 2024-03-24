@@ -1,6 +1,6 @@
 import User from "../../../models/User";
 import dbConnect from "../../../util/dbConnect";
-import bcrypt from "bcryptjs";
+import bcrypt from "bcrypt";
 
 const handler = async (req, res) => {
   await dbConnect();
